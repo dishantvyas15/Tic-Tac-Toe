@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">Tic-Tac-Toe</string>
+    <string name="play_grid">Game Grid</string>
+    <string name="X_turn">X\'s turn</string>
+    <string name="reset">Reset</string>
+    <string name="tap_box">Tap Box</string>
+</resources>
